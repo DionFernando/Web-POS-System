@@ -370,11 +370,11 @@ table tbody tr td {
     height: 28px;
     border-radius: 25px;
     text-decoration: none;
-    background: #00d2d3;
+    background: #1de051;
 }
 
 #recentOrderTbl tbody tr td div {
-    background: red;
+    background: #1de051;
     cursor: pointer;
 }
 
